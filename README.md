@@ -8,7 +8,7 @@ Love code. Learning many things to become best software developer in the world! 
 
 * 🌍  I'm based in Kursk
 * ✉️  You can contact me at [imenolys23@gmail.com](mailto:imenolys23@gmail.com)
-* 🧠  I'm learning Android Development with Jetpack Compose
+* 🧠  I'm learning Web development right now!
 
 ### Skills
 
