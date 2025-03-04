@@ -4,11 +4,11 @@ Hi 👋 My name is Max Kalugin
 Java QA Automation
 ------------------
 
-Love code. Learning many things to become best software developer in the world! Also like watch movies, TV shows, anime, play games, listen music, read books.
+Love code. Learning many things to become best software developer in the world! Also like watch movies, TV shows, anime, play games, listen music, read books. Also I really like studying new features about Cloud and Network.
 
 * 🌍  I'm based in Kursk
 * ✉️  You can contact me at [imenolys23@gmail.com](mailto:imenolys23@gmail.com)
-* 🧠  I'm learning I'm learning Web development right now!
+* 🧠  I'm learning I'm learning Web development and Network technologies right now!
 
 ### Skills
 
