@@ -17,19 +17,19 @@ Love code. Learning many things to become the best software developer in the wor
 
 <p align="left">
   
-  Primary:
+[//]: # (  Primary:)
 
 |Git|Java|JavaScript|Python|
 |:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 | <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="40" height="40" alt="Git" /></a> | <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="40" height="40" alt="Java" /></a> | <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="40" height="40" alt="JavaScript" /></a> | <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="40" height="40" alt="Python" /></a> 
 
-  Secondary:
+[//]: # (  Secondary:)
 
 |Bash|HTML|CSS|Postgres|Docker|IndelliJ Idea|
 |:----:|:----:|:----:|:----:|:----:|:----:|
 |  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" width="40" height="40" alt="GNU Bash" /></a>|<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="40" height="40" alt="HTML5" /></a>|<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="40" height="40" alt="CSS3" /></a>|<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="40" height="40" alt="PostgreSQL" /></a>|<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="40" height="40" alt="Docker" /></a>|<a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"><img src="images/idea_icon.png" width="40" height="40" alt="Idea" /></a>
 
-  I am work a lot with:
+[//]: # (  I am work a lot with:)
 
 |Allure Report|Maven|Selenium|Postman|RestAssured|JMeter|Jenkins|WebStorm|Gitlab|
 |:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
@@ -43,12 +43,22 @@ Love code. Learning many things to become the best software developer in the wor
 [//]: # ( <a href="https://open.spotify.com/user/31ytrz4yuqfh6tzmh47qeop2sjky" target="_blank" rel="noreferrer"><img src="images/spotify_icon.png" width="40" height="40" alt="Spotify"></a> <a href="https://bastyon.com/maxain" target="_blank" rel="noreferrer"><img src="images/bastyon_icon.jpg" width="40" height="40" alt="Bastyon"></a> <a href="https://shikimori.one/IMax-kun" target="_blank" rel="noreferrer"><img src="images/shikimori-icon.png" width="40" height="40" alt="Shikimori"></a> </p>)
 
 ## You can find me on
-<p align="left">
-<a href="https://bsky.app/profile/maxain.bsky.social" target="blank"><img align="center" src="images/bluesky_icon.webp" alt="bs_icon" height="40" width="40" /></a>
-<a href="https://t.me/maxain" target="blank"><img align="center" src="images/tg_n_icon.webp" alt="tg_icon" height="40" width="40" /></a>
-<a href="mailto:imenolys23@gmail.com" target="blank"><img align="center" src="images/gmail_icon.svg" alt="gmail_icon" height="40" width="40" /></a>
-<a href="https://www.linkedin.com/in/#/" target="blank"><img align="center" src="images/linkedin_icon.svg" alt="linkedin_icon" height="40" width="40" /></a>
-</p>
+
+| BlueSky | Telegram | Gmail | Linkedin |
+|:-------:|:--------:|:-----:|:--------:|
+|<a href="https://bsky.app/profile/maxain.bsky.social" target="blank"><img align="center" src="images/bluesky_icon.webp" alt="bs_icon" height="40" width="40" /></a>|<a href="https://t.me/maxain" target="blank"><img align="center" src="images/tg_n_icon.webp" alt="tg_icon" height="40" width="40" /></a>|<a href="mailto:imenolys23@gmail.com" target="blank"><img align="center" src="images/gmail_icon.svg" alt="gmail_icon" height="40" width="40" /></a>|<a href="https://www.linkedin.com/in/#/" target="blank"><img align="center" src="images/linkedin_icon.svg" alt="linkedin_icon" height="40" width="40" /></a>|
+
+[//]: # (<p align="left">)
+
+[//]: # (<a href="https://bsky.app/profile/maxain.bsky.social" target="blank"><img align="center" src="images/bluesky_icon.webp" alt="bs_icon" height="40" width="40" /></a>)
+
+[//]: # (<a href="https://t.me/maxain" target="blank"><img align="center" src="images/tg_n_icon.webp" alt="tg_icon" height="40" width="40" /></a>)
+
+[//]: # (<a href="mailto:imenolys23@gmail.com" target="blank"><img align="center" src="images/gmail_icon.svg" alt="gmail_icon" height="40" width="40" /></a>)
+
+[//]: # (<a href="https://www.linkedin.com/in/#/" target="blank"><img align="center" src="images/linkedin_icon.svg" alt="linkedin_icon" height="40" width="40" /></a>)
+
+[//]: # (</p>)
 
 ## Statistics
 
