@@ -1,4 +1,4 @@
-Hi 👋 My name is Max Kalugin
+Hi 👋 My name is Mira
 ============================
 
 I'm Java QA Automation Engineer
@@ -6,7 +6,7 @@ I'm Java QA Automation Engineer
 
 ### About Me
 
-Love code on Python and Java. Learning many things to become the decent QA Engineer! Also like watch movies, TV shows, anime, play games, listen music, read books. I'm passionate about studying new features in Cloud and Network technologies.
+Love code on Python and Java. Learning many things to become the decent QA Engineer! Also like watch movies, TV shows, anime, play games, listen to music, read books. I'm passionate about studying new features in Cloud and Network technologies.
 
 - 🎓 **Education:** I have a bachelor's degree in "Operation of transport and technological machines and complexes"
 - 💼 **Experience:** I have experience in Java automation testing about 1.5 years.
