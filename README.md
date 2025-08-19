@@ -1,6 +1,3 @@
-Hi 👋 My name is Mira
-============================
-
 I'm Java QA Automation Engineer
 ------------------
 
