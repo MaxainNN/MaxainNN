@@ -1,6 +1,8 @@
 Hi 👋 My name is Maxim
 ============================
 
+<img src="images/sakura.gif" alt="sakura">
+
 I'm a Java Developer
 ------------------
 
